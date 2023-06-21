@@ -1,4 +1,0 @@
-{
-	"ext": ".js, .ts",
-	"exec": "ts-node index.ts"
-}
